@@ -1,2 +1,2 @@
-# cards
-An unblocked version of cards against humanity
+# Cards
+An unblocked version of cards against humanity.
